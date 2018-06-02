@@ -130,7 +130,7 @@ section {
 	margin-bottom: 30px;
 }
 
-#mainSectionHeader {
+.mainSectionHeader {
 	width: 590px;
 }
 
@@ -151,7 +151,7 @@ aside {
 	margin-bottom: 30px;
 }
 
-#ConnectWithMeHeader {
+.ConnectWithMeHeader {
 	width: 220px;
 }
 
